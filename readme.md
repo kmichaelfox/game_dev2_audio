@@ -19,3 +19,16 @@
 ### <a name="sc-resources"></a>SuperCollider Resources
 
 ### <a name="game-engine-plugin-resources"></a>Game Engine Plugin Resources
+
+[FMod](http://fmod.com/)
+[Wwise](https://www.audiokinetic.com/products/wwise/)
+
+Writing your own plugins:
+
+Unity
+* [Unity Manual: Native Plugins](https://docs.unity3d.com/Manual/NativePlugins.html)
+* [Unity Manual: Low-Level Native Plugin Interface](https://docs.unity3d.com/Manual/NativePluginInterface.html)
+* [Unity Manual: Native Audio Plugin SDK](https://docs.unity3d.com/Manual/AudioMixerNativeAudioPlugin.html)
+
+Unreal Engine 4
+* [UE 4 Docs: Plugins](https://docs.unrealengine.com/latest/INT/Programming/Plugins/)
