@@ -10,7 +10,7 @@
 
 ## <a name="audio-and-music"></a>Audio and Music
 
-## <a name="Procedural Generation"></a>Procedural Generation
+## <a name="proc-gen"></a>Procedural Generation
 
 ## <a name="resources"></a>Resources
 
