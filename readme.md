@@ -10,11 +10,20 @@
 
 ## <a name="audio-and-music"></a>Audio and Music
 
+Just like when you are programming your game mechanics or creating your
+art assets, there are a lot of things to consider for the sound and music
+in your game beyond just the creative or aesthetic components. This section
+will describe some of the most important basics that are worth your attention.
+
+
+
 ## <a name="proc-gen"></a>Procedural Generation
 
 ## <a name="resources"></a>Resources
 
 ### <a name="audio-resources"></a>General Audio Resources
+
+[Audacity](http://www.audacityteam.org/)
 
 ### <a name="sc-resources"></a>SuperCollider Resources
 
