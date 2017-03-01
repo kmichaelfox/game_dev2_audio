@@ -85,6 +85,7 @@ the demo.
 Some stuff we'll need:
 
 [Unity OSC](https://github.com/jorgegarcia/UnityOSC)
+
 [Unity OSC Manual](https://github.com/jorgegarcia/UnityOSC/blob/master/docs/UnityOSC_manual.pdf)
 
 ## <a name="resources"></a>Resources
