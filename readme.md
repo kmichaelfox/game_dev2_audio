@@ -17,7 +17,7 @@ will describe some of the most important basics that are worth your attention.
 
 ### The role of audio and music in games
 
-
+In-class Discussion, I'll update this to reflect the discussion after class.
 
 ### Making your sound effects sound 'good'
 
@@ -67,9 +67,14 @@ options, so if you end up having this problem, lets talk about it.
 
 ## <a name="proc-gen"></a>Procedural Generation
 
-We're going to use Unity and SuperCollider to see how we can trigger live sounds
-and music from our game. This will mostly be an in-class demo. I'll update the
-information here to reflect what we get to during the demo.
+First, a field trip...
+
+[Super Mario Bros.](https://gist.github.com/1wErt3r/4048722)
+
+Now that we've seen that, we're going to use Unity and SuperCollider to see how
+we can trigger live sounds and music from our game. This will mostly be an
+in-class demo. I'll update the information here to reflect what we get to during
+the demo.
 
 ## <a name="resources"></a>Resources
 
@@ -97,6 +102,7 @@ more than $20,000 a year using this software). It works on Windows and MacOS.
 ### <a name="game-engine-plugin-resources"></a>Game Engine Plugin Resources
 
 [FMod](http://fmod.com/)
+
 [Wwise](https://www.audiokinetic.com/products/wwise/)
 
 Writing your own plugins:
