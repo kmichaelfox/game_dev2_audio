@@ -19,6 +19,12 @@ will describe some of the most important basics that are worth your attention.
 
 In-class Discussion, I'll update this to reflect the discussion after class.
 
+References:
+
+[Leonard Paul, "Interactive Sound Design", Game Sound Con 2009](http://www.videogameaudio.com/GameSoundCon-Nov2009/GameSoundCon2009-LPaul.pdf)
+
+[Leonard Paul's Talk at RPI (Spring 2015)](http://videogameaudio.com/RPI-Oct2015/RPI-IntroToVideoGameAudio-Oct2015-VideoGameAudioCOM.pdf)
+
 ### Making your sound effects sound 'good'
 
 People who edit sound all day every day will tell you that mixing and mastering
@@ -75,6 +81,11 @@ Now that we've seen that, we're going to use Unity and SuperCollider to see how
 we can trigger live sounds and music from our game. This will mostly be an
 in-class demo. I'll update the information here to reflect what we get to during
 the demo.
+
+Some stuff we'll need:
+
+[Unity OSC](https://github.com/jorgegarcia/UnityOSC)
+[Unity OSC Manual](https://github.com/jorgegarcia/UnityOSC/blob/master/docs/UnityOSC_manual.pdf)
 
 ## <a name="resources"></a>Resources
 
